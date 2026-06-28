@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Krishna Kumar
 
-<!--
-**Krishnakumaro9/krishnakumaro9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 MCA Student
+- 💻 Software Testing Enthusiast
+- 🧪 Manual Testing
+- 🐍 Python
+- ☕ Java
+- 🗄 SQL
+- 🌱 Learning Selenium
 
-Here are some ideas to get you started:
+## Skills
+- Manual Testing
+- SQL
+- Python
+- Java
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Library Management System
+- Banking System
+- Login Page Test Cases
+
+## Contact
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-profile
